@@ -1,7 +1,7 @@
 botnick = "botsnamehere"
 # twitch username the bot will use
 
-trustedppl = ["trusted user 1", "anothertrusteduser"]
+trustedppl = ["trusted user", "another trusted user"] # NO spaces in the username
 # the people you trust to use certain commands
 
 channeltojoin = "yourchannelnamehere"
